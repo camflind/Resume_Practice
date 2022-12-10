@@ -1,0 +1,40 @@
+/* Commenting is like this in css */
+/* If you press command and slash, it'll comment the highlighted portion for you! */
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ivory;}
+
+a {
+    color: #999999;}
+
+.resumestyle {
+    font-weight: bold;}
+
+ul {
+    font-style: italic;
+    font-weight: normal;}
+
+.justify {
+    text-align: justify;}
+
+.homebg {
+    background-image: url('../Pictures/background3.jpeg');
+    background-size: cover;}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;}
+
+.box2 {
+    padding: 5px;}
+    
+.box3 {
+    margin: 15px;}
+
+.padding {
+    padding-left: 9px}
+
+.gray {
+    color: #999999}
